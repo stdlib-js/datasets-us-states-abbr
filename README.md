@@ -20,7 +20,7 @@ limitations under the License.
 
 # US State Abbreviations
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > A list of US state two-letter abbreviations.
 
@@ -208,8 +208,8 @@ The data files (databases) are licensed under an [Open Data Commons Public Domai
 
 ## See Also
 
--   [`@stdlib/datasets/us-states-capitals`][@stdlib/datasets/us-states-capitals]: A list of US state capitals in alphabetical order according to state name.
--   [`@stdlib/datasets/us-states-names`][@stdlib/datasets/us-states-names]: A list of US state names in alphabetical order.
+-   <span class="package-name">[`@stdlib/datasets/us-states-capitals`][@stdlib/datasets/us-states-capitals]</span><span class="delimiter">: </span><span class="description">A list of US state capitals in alphabetical order according to state name.</span>
+-   <span class="package-name">[`@stdlib/datasets/us-states-names`][@stdlib/datasets/us-states-names]</span><span class="delimiter">: </span><span class="description">A list of US state names in alphabetical order.</span>
 
 </section>
 
@@ -255,8 +255,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/datasets-us-states-abbr/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/datasets-us-states-abbr?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/datasets-us-states-abbr.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/datasets-us-states-abbr/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
