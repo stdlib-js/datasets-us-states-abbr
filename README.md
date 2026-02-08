@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import abbr from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-us-states-abbr@esm/index.mjs';
+import abbr from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-us-states-abbr@v0.2.3-esm/index.mjs';
 ```
 
 #### abbr()
@@ -127,7 +127,7 @@ var data = abbr();
 
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@esm/index.mjs';
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import abbr from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-us-states-abbr@esm/index.mjs';
+import abbr from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-us-states-abbr@v0.2.3-esm/index.mjs';
 
 var data = abbr();
 var len = data.length;
